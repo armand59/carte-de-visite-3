@@ -1,0 +1,86 @@
+
+
+#titre
+{
+    margin-top: 307px;
+    color:#011621;
+    display: block;
+}
+
+#Développeur
+{
+    margin-top: 263px;
+    color:#011621;
+    display: block;
+    margin-left: 819px;
+    font-size: 26px;
+}
+
+#armand
+{
+    margin-top: -10px;
+    margin-left: 544px;
+    display: block;
+    font-style: inherit;
+    font-size: 60px;
+    color: #011621;
+
+
+}
+
+#facebook
+{
+    height: 10px;
+    margin-top: 0px;
+    width: 5px;
+
+    margin-left: 537px;
+}
+
+#messenger
+{
+    height: 10px;
+    margin-top: -26px;
+    width: 5px;
+    display: block;
+    margin-left: 926px;
+
+}
+
+#linkedin
+{
+    height: 10px;
+    margin-top: 6px;
+    width: 5px;
+    display: block;
+    margin-left: 675px;
+}
+
+#gmail
+{
+    height: 10px;
+    margin-top: -9px;
+    width: 5px;
+    display: block;
+    margin-left: 806px;
+}
+
+#mail
+{
+
+    margin-top: 277px;
+    width: 5px;
+    display: block;
+    margin-left: 538px;
+    font-size: 25px;
+    vertical-align: middle;
+}
+#num
+{
+    margin-top: -30px;
+    width: 5px;
+    display: block;
+    margin-left: 834px;
+    font-size: 30px;
+
+}
